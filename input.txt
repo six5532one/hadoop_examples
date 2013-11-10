@@ -1,0 +1,22 @@
+PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.
+
+We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.
+
+A major goal of the conference is to provide a venue for users across all the various domains of data analysis to share their experiences and their techniques, as well as highlight the triumphs and potential pitfalls of using Python for certain kinds of problems.
+
+We invite all conference participants to showcase how they have used Python to solve their problems, by submitting a Showcase/Expo Proposal. These short, 15-minute presentations should help stimulate ideas and questions from other participants, tackling similar problems in other domains.
+
+History
+
+March 2012 - Silicon Valley
+November 2012 - New York
+March 2013 - Silicon Valley
+July 2013 - Boston
+
+The first PyData Workshop was held in March of 2012, at the Googleplex in Mountain View, CA. Many prominent individuals in the Python data & scientific computing community were on-hand to deliver tutorials and how-to presentations, and the Workshop (and a Friday night hack-a-thon) were a great success. Unfortunately, we had a very limited amount of space, and were unable to provide a spot for everyone who wanted to come.
+
+In light of the demand and the success of that event, we reserved a much larger venue for PyData NYC. The conference sold out and was a great success.
+
+"It was so successful that even Hurricane Sandy tried to attend!"
+
+In order to continue the growth of PyData we need to continue to charge a modest attendence fee to cover the costs of the venue and food and beverage service. It also means that we have a greater need for commercial sponsors, so please contact us at admin@pydata.org if you want to have your company highlighted in front of hundreds of data science & data analysis Pythonistas!
